@@ -1,0 +1,103 @@
+{
+"targetVersion":5,
+"version6Link":"SonicePro://eyJuYW1lIjoi5rWL6K+V6Kej5p6Q6K6i6ZiFIiwiZGVmYXVsdCI6Imh0dHBzOlwvXC9naXRodWIubW9leXkueHl6XC9odHRwczpcL1wvcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbVwvbHMxMjU3ODEwMDNcL2RtdGdcL21haW5cL1NvbmljZVByb0RZNi5qc29uIiwic3BhcmUiOiJodHRwczpcL1wvbWlycm9yLmdocHJveHkuY29tXC9odHRwczpcL1wvcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbVwvbHMxMjU3ODEwMDNcL2RtdGdcL21haW5cL1NvbmljZVByb0RZNi5qc29uIn0=",
+"name":"测试解析订阅",
+"author":"XL",
+"contact":"ls125781003@petalmail.com",
+"message":"此订阅为测试解析订阅，有些解析可能已失效。(请长按自定义数据-初始化，进行手动更新！！！)注：此订阅仅用于测试,请于24小时内删除",
+"editable":false,
+
+"searchConfig":[
+
+],
+"searchManager":{},
+"analysisApi":{
+     "纯净1": {
+      "apiUrl": "https://im1907.top/?jx={ItemUrlOrId}",
+      "apiSupport": ["iqiyi","qq","youku","mgtv","sohu","cctv","pptv","1905","miguvideo","ixigua"]
+    },      
+     "777": {
+      "apiUrl": "https://jx.jsonplayer.com/player/?url={ItemUrlOrId}",
+      "apiSupport": ["iqiyi","qq","youku","mgtv","sohu","cctv","pptv","1905","miguvideo","ixigua"]
+    },    
+      "爱豆": {
+      "apiUrl": "https://jx.aidouer.net/?url={ItemUrlOrId}",
+      "apiSupport": ["iqiyi","qq","youku","mgtv","sohu","cctv","pptv","1905","miguvideo","ixigua"]
+    },   
+     "爱酷": {
+      "apiUrl": "https://jx.zhanlangbu.com/?url={ItemUrlOrId}",
+      "apiSupport": ["iqiyi","qq","youku","mgtv","sohu","cctv","pptv","1905","miguvideo","ixigua"]
+    },   
+     "云解析": {
+      "apiUrl": "https://jx.yparse.com/index.php?url={ItemUrlOrId}",
+      "apiSupport": ["iqiyi","qq","youku","mgtv","sohu","cctv","pptv","1905","miguvideo","ixigua"]
+    },  
+     "剖云": {
+      "apiUrl": "https://www.kkvip2022.com/vip/jiexi1/?url={ItemUrlOrId}",
+      "apiSupport": ["iqiyi","qq","youku","mgtv","sohu","cctv","pptv","1905","miguvideo","ixigua"]
+    },  
+     "全看": {
+      "apiUrl": "https://jx.quankan.app/?url={ItemUrlOrId}",
+      "apiSupport": ["iqiyi","qq","youku","mgtv","sohu","cctv","pptv","1905","miguvideo","ixigua"]
+    },  
+
+     "虾米": {
+      "apiUrl": "https://jx.xmflv.com/?url={ItemUrlOrId}",
+      "apiSupport": ["iqiyi","qq","youku","mgtv","sohu","cctv","pptv","1905","miguvideo","ixigua"]
+    },   
+     "OK解析": {
+      "apiUrl": "https://okjx.cc/?url={ItemUrlOrId}",
+      "apiSupport": ["iqiyi","qq","youku","mgtv","sohu","cctv","pptv","1905","miguvideo","ixigua"]
+    },    
+    "OK": {
+      "apiUrl": "https://api.okjx.cc:3389/jx.php?url={ItemUrlOrId}",
+      "apiSupport": ["iqiyi","qq","youku","mgtv","sohu","cctv","pptv","1905","miguvideo","ixigua"]
+    },    
+    "听乐": {
+      "apiUrl": "https://jx.dj6u.com/?url={ItemUrlOrId}",
+      "apiSupport": ["iqiyi","qq","youku","mgtv","sohu","pptv","1905","miguvideo","ixigua"]
+    },
+    "夜幕": {
+      "apiUrl": "https://www.yemu.xyz/?url={ItemUrlOrId}",
+      "apiSupport": ["iqiyi","qq","youku","mgtv","sohu","pptv","1905","miguvideo","ixigua"]
+    }, 
+
+    "江湖": {
+      "apiUrl": "http://27.124.4.42:4567/jhjson/ceshi.php?url={ItemUrlOrId}",
+      "apiSupport": ["iqiyi","qq","youku","mgtv","sohu","pptv","1905","miguvideo","ixigua"]
+    }, 
+    "tx": {
+      "apiUrl": "http://119.91.31.224:82/txqq.php?url={ItemUrlOrId}",
+      "apiSupport": ["iqiyi","qq","youku","mgtv","sohu","pptv","1905","miguvideo","ixigua"]
+    }, 
+    "咸鱼": {
+      "apiUrl": "https://jx.xyflv.com/?url={ItemUrlOrId}",
+      "apiSupport": ["iqiyi","qq","youku","mgtv","sohu","pptv","1905","miguvideo","ixigua"]
+    },   
+    "左岸2": {
+      "apiUrl": "https://jx.777jiexi.com/player/?url={ItemUrlOrId}",
+      "apiSupport": ["iqiyi","qq","youku","mgtv","sohu","pptv","1905","miguvideo","ixigua"]
+    }, 
+    "365": {
+      "apiUrl": "https://chaxun.truechat365.com/?url={ItemUrlOrId}",
+      "apiSupport": ["iqiyi","qq","youku","mgtv","sohu","pptv","1905","miguvideo","ixigua"]
+    }, 
+    "parwix": {
+      "apiUrl": "https://jx.bozrc.com:4433/player/?url={ItemUrlOrId}",
+      "apiSupport": ["iqiyi","qq","youku","mgtv","sohu","pptv","1905","miguvideo","ixigua"]
+    }, 
+
+     "YT": {
+      "apiUrl": "https://jx.yangtu.top/?url={ItemUrlOrId}",
+      "apiSupport": ["iqiyi","qq","youku","mgtv","sohu","pptv","1905","miguvideo","ixigua"]
+    }
+      
+},
+"sniffUrlSkip":{},
+"televisionList":[],
+"fastVideoList":[]
+
+}
+
+
+
